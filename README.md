@@ -1,5 +1,39 @@
 # 💫 About Me:
-👋 Hi, I’m Devashish Gadodia<br><br>🎓 Computer Science & Engineering (Data Science) undergraduate at Shri Ramdeobaba College of Engineering & Management (RCOEM)<br>💻 Aspiring Software Engineer / Data Science & AI Enthusiast<br>🚀 Passionate about building practical solutions using Python, data, and intelligent systems<br><br>🧠 About Me<br><br>🔭 I’m currently working on Python-based projects focused on real-world problem solving<br><br>👯 I’m looking to collaborate on AI, Data Science, Python, and backend development projects<br><br>🤝 I’m looking for help with advanced DSA, system design, and production-level ML projects<br><br>🌱 I’m currently learning Data Structures & Algorithms, Machine Learning, and applied Data Analytics<br><br>💬 Ask me about Python, data analysis, basic ML concepts, and project structuring<br><br>⚡ Fun fact: I enjoy turning raw data into meaningful insights and learning by building<br><br>🛠️ Tech Stack<br><br>Languages:<br><br>Python<br><br>SQL (basic–intermediate)<br><br>Core Concepts:<br><br>Data Structures & Algorithms<br><br>Object-Oriented Programming<br><br>Databases<br><br>Core Computer Science fundamentals<br><br>Libraries & Tools:<br><br>NumPy, Pandas, Matplotlib<br><br>Git & GitHub<br><br>Streamlit (basic)<br><br>🏆 Experience & Activities<br><br>✅ Completed a 3-month internship/training with hands-on Python development<br><br>🧠 Built training and prototype-level projects in Python and data analysis<br><br>🏁 Actively participated in college-level hackathons and technical fests<br><br>🇮🇳 Participant in Smart India Hackathon (SIH)<br><br>📌 What I’m Aiming For<br><br>Software Engineering roles<br><br>Data Science / AI-focused internships<br><br>Strong fundamentals + real-world projects over buzzwords
+👋 Hi, I’m Devashish Gadodia<br>
+🎓 Computer Science & Engineering (Data Science) undergraduate at Shri Ramdeobaba College of Engineering & Management (RCOEM)
+💻 Aspiring Software Engineer / Data Science & AI Enthusiast
+🚀 Passionate about building practical solutions using Python, data, and intelligent systems<br>
+🧠 About Me<br>
+🔭 I’m currently working on Python-based projects focused on real-world problem solving<br>
+👯 I’m looking to collaborate on AI, Data Science, Python, and backend development projects<br>
+🤝 I’m looking for help with advanced DSA, system design, and production-level ML projects<br>
+🌱 I’m currently learning Data Structures & Algorithms, Machine Learning, and applied Data Analytics<br>
+💬 Ask me about Python, data analysis, basic ML concepts, and project structuring<br>
+⚡ Fun fact: I enjoy turning raw data into meaningful insights and learning by building<br>
+🛠️ Tech Stack<br>
+* Languages:<br>
+  * Python<br>
+  * SQL (basic–intermediate)<br>
+* Core Concepts:<br>
+  * Data Structures & Algorithms<br>
+  * Object-Oriented Programming<br>
+  * Databases<br>
+  * Core Computer Science fundamentals<br>
+* Libraries & Tools:<br>
+  * NumPy
+  * Pandas
+  * Matplotlib<br>
+  * Git & GitHub<br>
+  * Streamlit (basic)<br>
+🏆 Experience & Activities<br>
+✅ Completed a 3-month internship/training with hands-on Python development<br>
+🧠 Built training and prototype-level projects in Python and data analysis<br>
+🏁 Actively participated in college-level hackathons and technical fests<br>
+🇮🇳 Participant in Smart India Hackathon (SIH)<br>
+📌 What I’m Aiming For<br>
+  * Software Engineering roles<br>
+  * Data Science / AI-focused internships<br>
+  * Strong fundamentals + real-world projects over buzzwords
 
 
 ## 🌐 Socials:
