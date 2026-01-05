@@ -28,13 +28,13 @@
 
 
 🏆 Experience & Activities<br>
-✅ Completed a 3-month internship/training with hands-on Python development<br>
-🧠 Built training and prototype-level projects in Python and data analysis<br>
-🏁 Actively participated in college-level hackathons and technical fests<br>
-🇮🇳 Participant in Smart India Hackathon (SIH)<br>
+  ✅ Completed a 3-month internship/training with hands-on Python development<br>
+  🧠 Built training and prototype-level projects in Python and data analysis<br>
+  🏁 Actively participated in college-level hackathons and technical fests<br>
+  🇮🇳 Participant in Smart India Hackathon (SIH)<br>
 
 
-📌 What I’m Aiming For<br>
+📌 What I’m Aiming For
   * Software Engineering roles<br>
   * Data Science / AI-focused internships<br>
   * Strong fundamentals + real-world projects over buzzwords
