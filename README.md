@@ -1,15 +1,15 @@
 # 💫 About Me:
 👋 Hi, I’m Devashish Gadodia<br>
-🎓 Computer Science & Engineering (Data Science) undergraduate at Shri Ramdeobaba College of Engineering & Management (RCOEM)
-💻 Aspiring Software Engineer / Data Science & AI Enthusiast
-🚀 Passionate about building practical solutions using Python, data, and intelligent systems<br>
+🎓 Computer Science & Engineering (Data Science) undergraduate at Shri Ramdeobaba College of Engineering & Management (RCOEM)<br>
+💻 Aspiring Software Engineer / Data Science & AI Enthusiast<br>
+🚀 Passionate about building practical solutions using Python, data, and intelligent systems<br><br>
 🧠 About Me<br>
 🔭 I’m currently working on Python-based projects focused on real-world problem solving<br>
 👯 I’m looking to collaborate on AI, Data Science, Python, and backend development projects<br>
 🤝 I’m looking for help with advanced DSA, system design, and production-level ML projects<br>
 🌱 I’m currently learning Data Structures & Algorithms, Machine Learning, and applied Data Analytics<br>
 💬 Ask me about Python, data analysis, basic ML concepts, and project structuring<br>
-⚡ Fun fact: I enjoy turning raw data into meaningful insights and learning by building<br>
+⚡ Fun fact: I enjoy turning raw data into meaningful insights and learning by building<br><br>
 🛠️ Tech Stack<br>
 * Languages:<br>
   * Python<br>
@@ -25,11 +25,15 @@
   * Matplotlib<br>
   * Git & GitHub<br>
   * Streamlit (basic)<br>
+
+
 🏆 Experience & Activities<br>
 ✅ Completed a 3-month internship/training with hands-on Python development<br>
 🧠 Built training and prototype-level projects in Python and data analysis<br>
 🏁 Actively participated in college-level hackathons and technical fests<br>
 🇮🇳 Participant in Smart India Hackathon (SIH)<br>
+
+
 📌 What I’m Aiming For<br>
   * Software Engineering roles<br>
   * Data Science / AI-focused internships<br>
